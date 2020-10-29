@@ -1,9 +1,15 @@
 body{
-  background-color: dimgray;
+  /* background-color: dimgray; */
+  background-image: url('../images/night.jpg');  
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 .App {
   text-align: center;
 }
+
+
 .inces{
   font-size: 26px;
   text-align: center;
